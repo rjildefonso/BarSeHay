@@ -271,7 +271,7 @@
             const students = {
                 '2021001': { 
                     password: 'password123', 
-                    name: 'Juan Dela Cruz',
+                    name: 'Carl Aaron Fanto',
                     grades: [
                         { subject: 'Filipino sa Piling Larang', teacher: 'Mr. Banagan', grade: 100 },
                         { subject: 'Understanding Culture, Society and Politics', teacher: 'Ms. Echon', grade: 100 },
